@@ -1,2 +1,2 @@
-# cyan_creation
+# CYAN CREATION PORTFOLIO WEBSITE
 This is the portfolio of graphic design
